@@ -5,7 +5,7 @@ account: uicmeasure
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7320371
-bundleId: 6408060
+bundleId: 6418620
 url: https://uicmeasure.shinyapps.io/uicmeasure/
-when: 1665925244.87372
-lastSyncTime: 1665925244.87373
+when: 1666177022.79905
+lastSyncTime: 1666177022.79906
